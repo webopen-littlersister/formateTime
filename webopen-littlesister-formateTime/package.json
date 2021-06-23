@@ -1,0 +1,19 @@
+{
+  "name": "webopen-littlesister_formate-time",
+  "version": "2.0.1",
+  "description": "格式化时间",
+  "main": "index.js",
+  "bin": {
+    "qf666": "bin/utils.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "js",
+    "时间格式化"
+  ],
+  "author": "webopen-littlesister",
+  "license": "ISC",
+  "dependencies": {}
+}
